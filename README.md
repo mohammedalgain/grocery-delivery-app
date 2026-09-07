@@ -1,7 +1,6 @@
 # Grocery Delivery App
 
-A native Android grocery store app built for a Mobile Application Development course
-(Islamic University of Madinah, Semester 2, 2024–25). Admins manage inventory and users;
+A native Android grocery store app built for a Mobile Application Development course. Admins manage inventory and users;
 customers browse, cart, and check out with either card or cash on delivery.
 
 ![App flow](assets/screenshots-overview.png)
@@ -71,14 +70,4 @@ why this isn't a drop-in Android Studio project.
 - **Android Studio / XML** — UI (layouts not included, see above)
 - **SQLite** — local data persistence via `DBHelper`
 
-## Future work
 
-- Delivery tracking with live location and estimated delivery time
-- Encrypted password storage
-- Complete the missing project scaffolding (manifest, layouts, gradle) for a runnable build
-
-## References
-
-- Dr. Tanweer's Mobile Application Development course materials
-- [Android SQLite tutorial (YouTube)](https://www.youtube.com/watch?v=fis26HvvDII)
-- [Stack Overflow — android-studio tag](https://stackoverflow.com/questions/tagged/android-studio)
